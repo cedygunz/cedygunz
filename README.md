@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @cedygunz
+- 👀 I’m interested in everything with WordPress
+- 🌱 I’m currently learning to Master Elementor :-D 
+- 📫 How to reach me cedric.gunz@gmail.com
+
+<!---
+cedygunz/cedygunz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
