@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedygunz
-- 👀 I’m interested in everything with WordPress
-- 🌱 I’m currently learning to Master Elementor :-D 
+- 👀 I’m interested in everything with Pimcore
+- 🌱 I’m currently learning to Master my requirement engeneering exam
 - 📫 How to reach me cedric.gunz@gmail.com
 
 <!---
