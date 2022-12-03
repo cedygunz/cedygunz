@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedygunz
 - 👀 I’m interested in everything with Pimcore
-- 🌱 I’m currently learning to Master my requirement engeneering exam
+- 🌱 I’m currently learning to Master my Requirement Engeneering Exam
 - 📫 How to reach me cedric.gunz@gmail.com
 
 <!---
